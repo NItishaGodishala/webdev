@@ -1,0 +1,21 @@
+.space{
+    font-weight:bolder;
+}
+.para{
+    font-size: small;
+    font-weight: lighter;
+}
+.marginset{
+    margin-top:15px;
+}
+.paracolor:nth-child(odd){
+    background:#ece6e6;
+    
+}
+.paracolor2:nth-child(even){
+    background:#ece6e6;
+    
+}
+.superscriptele{
+    color: #f91919;
+}
